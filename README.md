@@ -73,12 +73,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ##<h1 align="center">Expense Tracker</h1>
 
-This is a simple expense tracker with following features:
+This is a simple expense tracker website with following features:
   - Add Expense with date, type and amount
   - Get all expenses based on year
   - Can track all expense
   - Modify expenses
   - All Field validation done
+  - Hooks used : useState
  
 
   
